@@ -31,7 +31,7 @@ Some of my projects -
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tristxnn&repo=pickleballScore&theme=dracula" width="380">
   </a>
   <a href="https://github.com/tristxnn/simpleCalc">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tristxnn&repo=simpleCalc&theme=dracula" width="360">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tristxnn&repo=simpleCalc&theme=dracula" width="380">
   </a>
 </p>
 
